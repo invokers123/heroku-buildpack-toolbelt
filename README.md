@@ -27,7 +27,7 @@ Example usage:
     $ heroku config:add HEROKU_TOOLBELT_API_PASSWORD=`heroku auth:token`
 
     $ cat .buildpacks
-    https://github.com/gregburek/heroku-buildpack-toolbelt.git
+    https://github.com/invokers123/heroku-buildpack-toolbelt.git
     https://github.com/heroku/heroku-buildpack-ruby.git
 
     $ git push heroku master
